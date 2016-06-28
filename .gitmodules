@@ -4,3 +4,12 @@
 [submodule "vim-config"]
 	path = vim-config
 	url = git@github.com:motorolja/vim-config.git
+[submodule "gnupg-config"]
+	path = gnupg-config
+	url = git@github.com:motorolja/gnupg-config.git
+[submodule "spacemacs-config"]
+	path = spacemacs-config
+	url = git@github.com:motorolja/spacemacs-config.git
+[submodule "pam-configs"]
+	path = pam-configs
+	url = git@github.com:motorolja/pam-configs.git
